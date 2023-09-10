@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B899F51D-C2CB-4BD4-BA01-988D853C2EF2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FinalProject2</RootNamespace>
+    <AssemblyName>FinalProject2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>C:\Users\Sandaru\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EstateHead\EstateHeadScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstateHead\EstateHeadScreen.Designer.cs">
+      <DependentUpon>EstateHeadScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstateHead\EstateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstateHead\EstateProduct.Designer.cs">
+      <DependentUpon>EstateProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\ManagerScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager\ManagerScreen.Designer.cs">
+      <DependentUpon>ManagerScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ProductReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ProductReport.Designer.cs">
+      <DependentUpon>ProductReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RawMatReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\RawMatReport.Designer.cs">
+      <DependentUpon>RawMatReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdateGRN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdateGRN.Designer.cs">
+      <DependentUpon>AddUpdateGRN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdateInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdateInvoice.Designer.cs">
+      <DependentUpon>AddUpdateInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdatePO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdatePO.Designer.cs">
+      <DependentUpon>AddUpdatePO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdateProductRelease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdateProductRelease.Designer.cs">
+      <DependentUpon>AddUpdateProductRelease.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdateTransferRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdateTransferRequest.Designer.cs">
+      <DependentUpon>AddUpdateTransferRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstateHead\AddUpdateWeeklyProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstateHead\AddUpdateWeeklyProgress.Designer.cs">
+      <DependentUpon>AddUpdateWeeklyProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdatewWeeklyPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\AddUpdatewWeeklyPlan.Designer.cs">
+      <DependentUpon>AddUpdatewWeeklyPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.cs" />
+    <Compile Include="EstateHead\Delivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstateHead\Delivery.Designer.cs">
+      <DependentUpon>Delivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\DashBoard.Designer.cs">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\Estates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\Estates.Designer.cs">
+      <DependentUpon>Estates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\GRN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\GRN.Designer.cs">
+      <DependentUpon>GRN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\Invoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\Invoices.Designer.cs">
+      <DependentUpon>Invoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\ManageRawMaterials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\ManageRawMaterials.Designer.cs">
+      <DependentUpon>ManageRawMaterials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\POReciept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\POReciept.Designer.cs">
+      <DependentUpon>POReciept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\ProductRelease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\ProductRelease.Designer.cs">
+      <DependentUpon>ProductRelease.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\ProductScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\ProductScreen.Designer.cs">
+      <DependentUpon>ProductScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Supervisor\PurchaseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\PurchaseOrder.Designer.cs">
+      <DependentUpon>PurchaseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Supervisor\SupervisorDelivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\SupervisorDelivery.Designer.cs">
+      <DependentUpon>SupervisorDelivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\SupervisorScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\SupervisorScreen.Designer.cs">
+      <DependentUpon>SupervisorScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\Supplier.Designer.cs">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\SupplierInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\SupplierInvoice.Designer.cs">
+      <DependentUpon>SupplierInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\SWeeklyProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\SWeeklyProgress.Designer.cs">
+      <DependentUpon>SWeeklyProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\TransferRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\TransferRequest.Designer.cs">
+      <DependentUpon>TransferRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\UpdateTransferRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\UpdateTransferRequest.Designer.cs">
+      <DependentUpon>UpdateTransferRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\ViewGRN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\ViewGRN.Designer.cs">
+      <DependentUpon>ViewGRN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\ViewInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\ViewInvoice.Designer.cs">
+      <DependentUpon>ViewInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\ViewPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\ViewPO.Designer.cs">
+      <DependentUpon>ViewPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\ViewProductReleaseItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\ViewProductReleaseItem.Designer.cs">
+      <DependentUpon>ViewProductReleaseItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\ViewTransferRequestItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\ViewTransferRequestItem.Designer.cs">
+      <DependentUpon>ViewTransferRequestItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\ViewWeeklyPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\ViewWeeklyPlan.Designer.cs">
+      <DependentUpon>ViewWeeklyPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstateHead\ViewWeeklyProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstateHead\ViewWeeklyProgress.Designer.cs">
+      <DependentUpon>ViewWeeklyProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supervisor\WeeklyPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor\WeeklyPlan.Designer.cs">
+      <DependentUpon>WeeklyPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstateHead\WeeklyProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstateHead\WeeklyProgress.Designer.cs">
+      <DependentUpon>WeeklyProgress.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="EstateHead\EstateHeadScreen.resx">
+      <DependentUpon>EstateHeadScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstateHead\EstateProduct.resx">
+      <DependentUpon>EstateProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\ManagerScreen.resx">
+      <DependentUpon>ManagerScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ProductReport.resx">
+      <DependentUpon>ProductReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ProductStockLevelReport.rdlc" />
+    <EmbeddedResource Include="Reports\RawMaterialStockLevelReport.rdlc" />
+    <EmbeddedResource Include="Reports\RawMatReport.resx">
+      <DependentUpon>RawMatReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\AddUpdateGRN.resx">
+      <DependentUpon>AddUpdateGRN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\AddUpdateInvoice.resx">
+      <DependentUpon>AddUpdateInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\AddUpdatePO.resx">
+      <DependentUpon>AddUpdatePO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\AddUpdateProductRelease.resx">
+      <DependentUpon>AddUpdateProductRelease.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\AddUpdateTransferRequest.resx">
+      <DependentUpon>AddUpdateTransferRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstateHead\AddUpdateWeeklyProgress.resx">
+      <DependentUpon>AddUpdateWeeklyProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\AddUpdatewWeeklyPlan.resx">
+      <DependentUpon>AddUpdatewWeeklyPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstateHead\Delivery.resx">
+      <DependentUpon>Delivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\DashBoard.resx">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\Estates.resx">
+      <DependentUpon>Estates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\GRN.resx">
+      <DependentUpon>GRN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\Invoices.resx">
+      <DependentUpon>Invoices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\ManageRawMaterials.resx">
+      <DependentUpon>ManageRawMaterials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\POReciept.resx">
+      <DependentUpon>POReciept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\ProductRelease.resx">
+      <DependentUpon>ProductRelease.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\ProductScreen.resx">
+      <DependentUpon>ProductScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Supervisor\PurchaseOrder.resx">
+      <DependentUpon>PurchaseOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\POReciept.rdlc" />
+    <EmbeddedResource Include="Supervisor\SupervisorDelivery.resx">
+      <DependentUpon>SupervisorDelivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\SupervisorScreen.resx">
+      <DependentUpon>SupervisorScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\Supplier.resx">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\SWeeklyProgress.resx">
+      <DependentUpon>SWeeklyProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\TransferRequest.resx">
+      <DependentUpon>TransferRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\UpdateTransferRequest.resx">
+      <DependentUpon>UpdateTransferRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\ViewGRN.resx">
+      <DependentUpon>ViewGRN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\ViewInvoice.resx">
+      <DependentUpon>ViewInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\ViewPO.resx">
+      <DependentUpon>ViewPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\ViewProductReleaseItem.resx">
+      <DependentUpon>ViewProductReleaseItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\ViewTransferRequestItem.resx">
+      <DependentUpon>ViewTransferRequestItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\ViewWeeklyPlan.resx">
+      <DependentUpon>ViewWeeklyPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstateHead\ViewWeeklyProgress.resx">
+      <DependentUpon>ViewWeeklyProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor\WeeklyPlan.resx">
+      <DependentUpon>WeeklyPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstateHead\WeeklyProgress.resx">
+      <DependentUpon>WeeklyProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reports\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reports\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reports\DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet3.xsc">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet3.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet3.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reports\DataSet3.xss">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\icons8-dashboard-layout-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-in-inventory-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-used-product-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-iron-ore-90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Link-Logo-1024x705.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-request-money-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-transfer-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-purchase-order-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purchase-order-icon-18-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-logout-rounded-down-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-file-invoice-dollar-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-receipt-approved-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-purchase-order-90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-new-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-planner-1001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-clock-144.png" />
+    <None Include="Resources\icons8-graph-report-script-100.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

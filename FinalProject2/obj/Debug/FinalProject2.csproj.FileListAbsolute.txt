@@ -1,0 +1,446 @@
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe.config
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\FinalProject2.pdb
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.AssemblyReference.cache
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.SuggestedBindingRedirects.cache
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Properties.Resources.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.GenerateResource.cache
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CoreCompileInputs.cache
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CopyComplete
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.exe
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.pdb
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.LoginFrom.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.SupervisorScreen.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductScreen.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ManageRawMaterials.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.TransferRequest.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateTransferRequest.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Estates.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewTransferRequestItem.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateProductRelease.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductRelease.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewProductReleaseItem.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyPlan.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateWeeklyProgress.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatewWeeklyPlan.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyProgress.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyPlan.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyProgress.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatePO.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.PurchaseOrder.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.GRN.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewGRN.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewPO.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateGRN.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Invoices.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewInvoice.resources
+E:\Final Project\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe.config
+E:\Final Project\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe
+E:\Final Project\FinalProject2\FinalProject2\bin\Debug\FinalProject2.pdb
+E:\Final Project\FinalProject2\FinalProject2\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.AssemblyReference.cache
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.SuggestedBindingRedirects.cache
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateGRN.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatePO.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateProductRelease.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateTransferRequest.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateWeeklyProgress.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatewWeeklyPlan.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Estates.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.LoginFrom.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.GRN.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Invoices.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ManageRawMaterials.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductRelease.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductScreen.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Properties.Resources.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.PurchaseOrder.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.SupervisorScreen.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.TransferRequest.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewGRN.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewInvoice.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewPO.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewProductReleaseItem.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewTransferRequestItem.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyPlan.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyProgress.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyPlan.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyProgress.resources
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.GenerateResource.cache
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CoreCompileInputs.cache
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CopyComplete
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.exe
+E:\Final Project\FinalProject2\FinalProject2\obj\Debug\FinalProject2.pdb
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe.config
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\bin\Debug\FinalProject2.pdb
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.AssemblyReference.cache
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.SuggestedBindingRedirects.cache
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateGRN.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatePO.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateProductRelease.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateTransferRequest.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateWeeklyProgress.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatewWeeklyPlan.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Estates.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.LoginFrom.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.GRN.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Invoices.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ManageRawMaterials.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductRelease.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductScreen.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Properties.Resources.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.PurchaseOrder.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.SupervisorScreen.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.TransferRequest.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewGRN.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewInvoice.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewPO.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewProductReleaseItem.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewTransferRequestItem.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyPlan.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyProgress.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyPlan.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyProgress.resources
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.GenerateResource.cache
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CoreCompileInputs.cache
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CopyComplete
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.exe
+E:\Final project copies\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.pdb
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe.config
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\bin\Debug\FinalProject2.pdb
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.AssemblyReference.cache
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.SuggestedBindingRedirects.cache
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateGRN.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatePO.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateProductRelease.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateTransferRequest.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateWeeklyProgress.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatewWeeklyPlan.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Estates.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.LoginFrom.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.GRN.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Invoices.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ManageRawMaterials.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductRelease.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductScreen.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Properties.Resources.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.PurchaseOrder.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.SupervisorScreen.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.TransferRequest.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewGRN.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewInvoice.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewPO.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewProductReleaseItem.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewTransferRequestItem.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyPlan.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyProgress.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyPlan.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyProgress.resources
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.GenerateResource.cache
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CoreCompileInputs.cache
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CopyComplete
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.exe
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.pdb
+E:\Diploma FInal\6-13-7pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.UpdateTransferRequest.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe.config
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\bin\Debug\FinalProject2.pdb
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.AssemblyReference.cache
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateGRN.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatePO.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateProductRelease.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateTransferRequest.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateWeeklyProgress.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatewWeeklyPlan.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Estates.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.LoginFrom.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.GRN.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Invoices.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ManageRawMaterials.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductRelease.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductScreen.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Properties.Resources.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.PurchaseOrder.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.SupervisorScreen.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.TransferRequest.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.UpdateTransferRequest.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewGRN.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewInvoice.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewPO.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewProductReleaseItem.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewTransferRequestItem.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyPlan.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyProgress.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyPlan.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyProgress.resources
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.GenerateResource.cache
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CoreCompileInputs.cache
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CopyComplete
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.exe
+C:\Users\Sandaru\Desktop\Project\13-11pm\FinalProject2\FinalProject2\obj\Debug\FinalProject2.pdb
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\EnvDTE.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\stdole.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.UpdateTransferRequest.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.POReciept.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateInvoice.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Delivery.resources
+E:\Final Project\Visual Studio\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewDeliveries.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe.config
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\FinalProject2.pdb
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\EnvDTE.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\stdole.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.AssemblyReference.cache
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateGRN.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateInvoice.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatePO.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateProductRelease.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateTransferRequest.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateWeeklyProgress.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatewWeeklyPlan.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Delivery.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Estates.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.LoginFrom.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.GRN.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Invoices.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ManageRawMaterials.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.POReciept.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductRelease.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductScreen.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Properties.Resources.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.PurchaseOrder.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.SupervisorScreen.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.TransferRequest.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.UpdateTransferRequest.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewGRN.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewInvoice.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewPO.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewProductReleaseItem.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewTransferRequestItem.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyPlan.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyProgress.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyPlan.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyProgress.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.GenerateResource.cache
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CoreCompileInputs.cache
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CopyComplete
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.exe
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.pdb
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Supervisor.SupervisorDelivery.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.EstateHead.EstateHeadScreen.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.EstateHead.EstateProduct.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Supervisor.SWeeklyProgress.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Manager.ManagerScreen.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Supervisor.DashBoard.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Reports.RawMatReport.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Reports.ProductReport.resources
+C:\Users\Sandaru\Desktop\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Supervisor.Supplier.resources
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe.config
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\FinalProject2.exe
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\FinalProject2.pdb
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\EnvDTE.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\stdole.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.AssemblyReference.cache
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.EstateHead.EstateHeadScreen.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.EstateHead.EstateProduct.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Manager.ManagerScreen.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Reports.ProductReport.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Reports.RawMatReport.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateGRN.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateInvoice.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatePO.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateProductRelease.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateTransferRequest.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdateWeeklyProgress.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.AddUpdatewWeeklyPlan.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Delivery.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Supervisor.DashBoard.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Estates.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.LoginFrom.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.GRN.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Invoices.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ManageRawMaterials.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.POReciept.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductRelease.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ProductScreen.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Properties.Resources.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.PurchaseOrder.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Supervisor.SupervisorDelivery.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.SupervisorScreen.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Supervisor.Supplier.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.Supervisor.SWeeklyProgress.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.TransferRequest.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.UpdateTransferRequest.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewGRN.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewInvoice.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewPO.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewProductReleaseItem.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewTransferRequestItem.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyPlan.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.ViewWeeklyProgress.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyPlan.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.WeeklyProgress.resources
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.GenerateResource.cache
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CoreCompileInputs.cache
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csproj.CopyComplete
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.exe
+E:\Project\19\FinalProject2\FinalProject2\obj\Debug\FinalProject2.pdb
