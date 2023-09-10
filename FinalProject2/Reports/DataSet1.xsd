@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Inventory4ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Inventory4ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.FinalProject2.Properties.Settings.GlobalReference.Default.Inventory4ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_9TableAdapter" GeneratorDataComponentClassName="View_9TableAdapter" Name="View_9" UserDataComponentName="View_9TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Inventory4ConnectionString (Settings)" DbObjectName="Inventory4.dbo.View_9" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT POID, PODate, POComment, AUName, AUAddress, AUEmail, AUContact, SupName, SupAddress, SupEmail, SupContact FROM dbo.View_9</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="POID" DataSetColumn="POID" />
+              <Mapping SourceColumn="PODate" DataSetColumn="PODate" />
+              <Mapping SourceColumn="POComment" DataSetColumn="POComment" />
+              <Mapping SourceColumn="AUName" DataSetColumn="AUName" />
+              <Mapping SourceColumn="AUAddress" DataSetColumn="AUAddress" />
+              <Mapping SourceColumn="AUEmail" DataSetColumn="AUEmail" />
+              <Mapping SourceColumn="AUContact" DataSetColumn="AUContact" />
+              <Mapping SourceColumn="SupName" DataSetColumn="SupName" />
+              <Mapping SourceColumn="SupAddress" DataSetColumn="SupAddress" />
+              <Mapping SourceColumn="SupEmail" DataSetColumn="SupEmail" />
+              <Mapping SourceColumn="SupContact" DataSetColumn="SupContact" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_10TableAdapter" GeneratorDataComponentClassName="View_10TableAdapter" Name="View_10" UserDataComponentName="View_10TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Inventory4ConnectionString (Settings)" DbObjectName="Inventory4.dbo.View_10" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT PONo, POQty, POUnitPrice, Amount, RawName, RawMUnit FROM dbo.View_10</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="PONo" DataSetColumn="PONo" />
+              <Mapping SourceColumn="POQty" DataSetColumn="POQty" />
+              <Mapping SourceColumn="POUnitPrice" DataSetColumn="POUnitPrice" />
+              <Mapping SourceColumn="Amount" DataSetColumn="Amount" />
+              <Mapping SourceColumn="RawName" DataSetColumn="RawName" />
+              <Mapping SourceColumn="RawMUnit" DataSetColumn="RawMUnit" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_9" msprop:Generator_RowEvHandlerName="View_9RowChangeEventHandler" msprop:Generator_RowDeletedName="View_9RowDeleted" msprop:Generator_RowDeletingName="View_9RowDeleting" msprop:Generator_RowEvArgName="View_9RowChangeEvent" msprop:Generator_TablePropName="View_9" msprop:Generator_RowChangedName="View_9RowChanged" msprop:Generator_RowChangingName="View_9RowChanging" msprop:Generator_TableClassName="View_9DataTable" msprop:Generator_RowClassName="View_9Row" msprop:Generator_TableVarName="tableView_9" msprop:Generator_UserTableName="View_9">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="POID" msprop:Generator_ColumnPropNameInRow="POID" msprop:Generator_ColumnPropNameInTable="POIDColumn" msprop:Generator_ColumnVarNameInTable="columnPOID" msprop:Generator_UserColumnName="POID" type="xs:int" />
+              <xs:element name="PODate" msprop:Generator_ColumnPropNameInRow="PODate" msprop:Generator_ColumnPropNameInTable="PODateColumn" msprop:Generator_ColumnVarNameInTable="columnPODate" msprop:Generator_UserColumnName="PODate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="POComment" msprop:Generator_ColumnPropNameInRow="POComment" msprop:Generator_ColumnPropNameInTable="POCommentColumn" msprop:Generator_ColumnVarNameInTable="columnPOComment" msprop:Generator_UserColumnName="POComment" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AUName" msprop:Generator_ColumnPropNameInRow="AUName" msprop:Generator_ColumnPropNameInTable="AUNameColumn" msprop:Generator_ColumnVarNameInTable="columnAUName" msprop:Generator_UserColumnName="AUName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AUAddress" msprop:Generator_ColumnPropNameInRow="AUAddress" msprop:Generator_ColumnPropNameInTable="AUAddressColumn" msprop:Generator_ColumnVarNameInTable="columnAUAddress" msprop:Generator_UserColumnName="AUAddress">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AUEmail" msprop:Generator_ColumnPropNameInRow="AUEmail" msprop:Generator_ColumnPropNameInTable="AUEmailColumn" msprop:Generator_ColumnVarNameInTable="columnAUEmail" msprop:Generator_UserColumnName="AUEmail">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AUContact" msprop:Generator_ColumnPropNameInRow="AUContact" msprop:Generator_ColumnPropNameInTable="AUContactColumn" msprop:Generator_ColumnVarNameInTable="columnAUContact" msprop:Generator_UserColumnName="AUContact" type="xs:int" />
+              <xs:element name="SupName" msprop:Generator_ColumnPropNameInRow="SupName" msprop:Generator_ColumnPropNameInTable="SupNameColumn" msprop:Generator_ColumnVarNameInTable="columnSupName" msprop:Generator_UserColumnName="SupName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SupAddress" msprop:Generator_ColumnPropNameInRow="SupAddress" msprop:Generator_ColumnPropNameInTable="SupAddressColumn" msprop:Generator_ColumnVarNameInTable="columnSupAddress" msprop:Generator_UserColumnName="SupAddress" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SupEmail" msprop:Generator_ColumnPropNameInRow="SupEmail" msprop:Generator_ColumnPropNameInTable="SupEmailColumn" msprop:Generator_ColumnVarNameInTable="columnSupEmail" msprop:Generator_UserColumnName="SupEmail" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SupContact" msprop:Generator_ColumnPropNameInRow="SupContact" msprop:Generator_ColumnPropNameInTable="SupContactColumn" msprop:Generator_ColumnVarNameInTable="columnSupContact" msprop:Generator_UserColumnName="SupContact" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="View_10" msprop:Generator_RowEvHandlerName="View_10RowChangeEventHandler" msprop:Generator_RowDeletedName="View_10RowDeleted" msprop:Generator_RowDeletingName="View_10RowDeleting" msprop:Generator_RowEvArgName="View_10RowChangeEvent" msprop:Generator_TablePropName="View_10" msprop:Generator_RowChangedName="View_10RowChanged" msprop:Generator_RowChangingName="View_10RowChanging" msprop:Generator_TableClassName="View_10DataTable" msprop:Generator_RowClassName="View_10Row" msprop:Generator_TableVarName="tableView_10" msprop:Generator_UserTableName="View_10">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PONo" msprop:Generator_ColumnPropNameInRow="PONo" msprop:Generator_ColumnPropNameInTable="PONoColumn" msprop:Generator_ColumnVarNameInTable="columnPONo" msprop:Generator_UserColumnName="PONo" type="xs:int" minOccurs="0" />
+              <xs:element name="POQty" msprop:Generator_ColumnPropNameInRow="POQty" msprop:Generator_ColumnPropNameInTable="POQtyColumn" msprop:Generator_ColumnVarNameInTable="columnPOQty" msprop:Generator_UserColumnName="POQty" type="xs:int" minOccurs="0" />
+              <xs:element name="POUnitPrice" msprop:Generator_ColumnPropNameInRow="POUnitPrice" msprop:Generator_ColumnPropNameInTable="POUnitPriceColumn" msprop:Generator_ColumnVarNameInTable="columnPOUnitPrice" msprop:Generator_UserColumnName="POUnitPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnPropNameInTable="AmountColumn" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_UserColumnName="Amount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="RawName" msprop:Generator_ColumnPropNameInRow="RawName" msprop:Generator_ColumnPropNameInTable="RawNameColumn" msprop:Generator_ColumnVarNameInTable="columnRawName" msprop:Generator_UserColumnName="RawName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RawMUnit" msprop:Generator_ColumnPropNameInRow="RawMUnit" msprop:Generator_ColumnPropNameInTable="RawMUnitColumn" msprop:Generator_ColumnVarNameInTable="columnRawMUnit" msprop:Generator_UserColumnName="RawMUnit">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:View_9" />
+      <xs:field xpath="mstns:POID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
